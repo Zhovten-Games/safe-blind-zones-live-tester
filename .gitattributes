@@ -1,0 +1,54 @@
+# Default text handling
+* text=auto
+
+# Shell / Unix scripts (must stay LF)
+*.sh text eol=lf
+*.bash text eol=lf
+*.zsh text eol=lf
+
+# Node / JS ecosystem
+*.js text eol=lf
+*.cjs text eol=lf
+*.mjs text eol=lf
+*.ts text eol=lf
+*.jsx text eol=lf
+*.tsx text eol=lf
+*.json text eol=lf
+
+# Config / CI
+*.yml text eol=lf
+*.yaml text eol=lf
+*.toml text eol=lf
+*.env text eol=lf
+
+# Hugo / web
+*.html text eol=lf
+*.css text eol=lf
+*.scss text eol=lf
+*.md text eol=lf
+
+# GitHub infrastructure
+.github/** text eol=lf
+
+# Windows scripts
+*.bat text eol=crlf
+*.cmd text eol=crlf
+*.ps1 text eol=crlf
+
+# Binary files (do not normalize)
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.webp binary
+*.ico binary
+*.svg binary
+*.pdf binary
+*.zip binary
+*.gz binary
+*.tgz binary
+*.7z binary
+*.woff binary
+*.woff2 binary
+*.ttf binary
+*.otf binary
