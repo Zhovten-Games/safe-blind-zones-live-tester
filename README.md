@@ -29,7 +29,7 @@ Found this helpful but need something else? Drop me a [LinkedIn](https://www.lin
 </details>
 
 <details>
-<summary>Опис (українською)</summary>
+<summary>Українська</summary>
 
 Веб-застосунок наочно показує safe/blind зони для мобільних інтерфейсів.
 
